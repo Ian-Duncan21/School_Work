@@ -1,0 +1,7 @@
+When running make it will create a program called out, so use ./out followed by the 5 argumets. 
+
+I will also have output that shows the converted string once it is converted. This was for testing but it may make grading easier and the output file will also have that same string displayed. 
+
+When decrypting use the old output file as the input file argument and make another new output file argument name. 
+
+My tar file consists of a README, main.cc, Makefile, and keyfile. Output files will be genereated by the program and I have included one input file in order to show tht it works. You can add more input files or edit that one to do testing. 
