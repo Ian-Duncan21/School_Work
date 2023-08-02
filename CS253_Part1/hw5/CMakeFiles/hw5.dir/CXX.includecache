@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/s/bach/c/under/iandunc/cs253/hw5/main.cc
+iostream
+-
+fstream
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+
