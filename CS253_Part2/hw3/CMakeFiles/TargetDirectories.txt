@@ -1,0 +1,4 @@
+/s/bach/c/under/iandunc/CS253/hw3/CMakeFiles/edit_cache.dir
+/s/bach/c/under/iandunc/CS253/hw3/CMakeFiles/rebuild_cache.dir
+/s/bach/c/under/iandunc/CS253/hw3/CMakeFiles/hw3.dir
+/s/bach/c/under/iandunc/CS253/hw3/CMakeFiles/hw3.tar.dir
