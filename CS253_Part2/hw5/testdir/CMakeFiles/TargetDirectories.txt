@@ -1,0 +1,4 @@
+/s/bach/c/under/iandunc/CS253/hw5/testdir/CMakeFiles/rebuild_cache.dir
+/s/bach/c/under/iandunc/CS253/hw5/testdir/CMakeFiles/edit_cache.dir
+/s/bach/c/under/iandunc/CS253/hw5/testdir/CMakeFiles/hw5.dir
+/s/bach/c/under/iandunc/CS253/hw5/testdir/CMakeFiles/hw5.tar.dir
