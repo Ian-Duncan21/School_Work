@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/s/bach/c/under/iandunc/cs253/hw4/Phobic.h
+iostream
+-
+initializer_list
+-
+set
+-
+stdexcept
+-
+
+/s/bach/c/under/iandunc/cs253/hw4/test.cc
+Phobic.h
+/s/bach/c/under/iandunc/cs253/hw4/Phobic.h
+Phobic.h
+/s/bach/c/under/iandunc/cs253/hw4/Phobic.h
+iostream
+-
+cassert
+-
+stdexcept
+-
+
