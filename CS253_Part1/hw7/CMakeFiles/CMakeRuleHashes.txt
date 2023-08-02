@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+60ac85f7112bbeecc19efd5ae8ac27b0 CMakeFiles/hw7.tar
