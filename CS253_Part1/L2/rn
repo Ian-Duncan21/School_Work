@@ -1,0 +1,33 @@
+#! /bin/bash
+ 
+old_suffix=$1
+new_suffix=$2
+
+ if (( $# == 2 ))
+    then
+    for f in *.$old_suffix
+    do
+        new_name=${f%.*}.$new_suffix
+        echo Rename $f to $new_name
+	
+	if [[ ! -f $new_name ]] 
+	then
+	    mv $f $new_name
+	
+	if [[ $? -eq 0 ]]
+	then
+	    echo "File Renamed"
+	else
+	    echo "Could not rename file"
+	fi
+
+	else 
+	    echo "File present with the same suffix already"   
+	fi
+    done
+    else
+	echo "Usage ./rn <old_suffix> <new_suffix>" >&2
+ fi
+ 
+ 
+

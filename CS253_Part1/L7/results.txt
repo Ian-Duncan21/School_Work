@@ -1,0 +1,10 @@
+exp1: delete[ ] not called
+exp2: 'a' was initialized to x[10] but only was length 0-9 and delete[] was not called.
+exp3: x was not initialized
+exp4: y was not initialized
+exp5: 'a' was allocated at spot 12345678 of 10
+exp6: delete[] was called before using greeting
+exp7: delete was called instead of delete[]
+exp8: free() was called instead of delete[]
+exp9: 
+exp10: new[] is never called but the compiler still uses the values
